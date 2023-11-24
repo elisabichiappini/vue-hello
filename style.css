@@ -1,0 +1,15 @@
+/*reset*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*classe*/
+.myImage {
+    width: 300px;
+    display: block;
+}
+.myText {
+    font-family: Helvetica, sans-serif;}

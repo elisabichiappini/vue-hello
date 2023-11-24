@@ -5,6 +5,7 @@
     data() {
       return {
         title: 'Passione broccolo!',
+        formatImage: 'myImage',
         classTitle: 'myText'
       }
     }
