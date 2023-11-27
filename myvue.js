@@ -6,7 +6,8 @@
       return {
         title: 'Passione broccolo!',
         formatImage: 'myImage',
-        classTitle: 'myText'
+        classTitle: 'myText',
+        imageSource: 'img/broccolo.jpg'
       }
     }
   }).mount('#app')
