@@ -1,3 +1,4 @@
+'use strict';
 //destrutturazione iniziale
   const { createApp } = Vue
 
